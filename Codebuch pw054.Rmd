@@ -20,7 +20,7 @@ Gibt an welche Art von Beziehung besteht.
 6 = Berufstätigkeit
 7 = Studienort in In- und Ausland
 
-?Erleuteung zu Relationship?
+*Erleuteung zu Relationship*
 
 1 = Achtung: Regierung umfasst auch Staatsekretäre und das
 Bundeskanzleramt, etc. hier sollte als Knoten das entsprechende
