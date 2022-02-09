@@ -116,7 +116,7 @@ Anzahl der Kinder
 **twitter**
 Anzahl follower
 
-**Instagram**
+**instagram**
 Anzahl follower
 
 -**facebook** 
