@@ -1,5 +1,5 @@
 from,to,relationship,year
-fr,bmwk,1,2022
+fb,bmwk,1,2022
 rs,bmi,1,2022
 tl,aam,1,2022
 bs,bfj,1,2022
@@ -14,7 +14,7 @@ rs,gfa,4,2021
 rs,alu,3,2021
 rs,gjd,2,2000
 rs,but,2,2021
-fr,but,2,2021
+fb,but,2,2021
 tl,but,2,2021
 bs,but,2,2021
 co,but,2,2021
