@@ -126,22 +126,22 @@ Anzahl follower
 Anzahl Abonnenten
 
 **parteijugend** 
-Mitgliedschaft in der Parteijugend
+(ehemalige) Mitgliedschaft in der Parteijugend
 0 = nein
 1 = ja
 
 **kreis** 
-Ämter auf oder Verbandschaften auf Kreisebene
+(ehemalige) Ämter auf oder Verbandschaften auf Kreisebene
 0 = nein
 1 = ja
 
 **land** 
-Ämter auf oder Verbandschaften auf Landesebene
+(ehemalige) Ämter auf oder Verbandschaften auf Landesebene
 0 = nein
 1 = ja
 
 **pjführung**
-Führende Position in der Parteijugend
+(ehemalige) Führende Position in der Parteijugend
 0 = nein
 1 = ja
 
