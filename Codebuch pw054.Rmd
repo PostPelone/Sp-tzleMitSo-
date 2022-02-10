@@ -130,13 +130,13 @@ Mitgliedschaft in der Parteijugend
 0 = nein
 1 = ja
 
-**kreisverband** 
-Mitgliedschaft in einem Kreisverband
+**kreis** 
+Ämter auf oder Verbandschaften auf Kreisebene
 0 = nein
 1 = ja
 
-**landesverband** 
-Mitgliedschaft in einem Landesverband
+**land** 
+Ämter auf oder Verbandschaften auf Landesebene
 0 = nein
 1 = ja
 
