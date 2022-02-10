@@ -125,4 +125,24 @@ Anzahl follower
 **youtube** 
 Anzahl Abonnenten
 
+**parteijugend** 
+Mitgliedschaft in der Parteijugend
+0 = nein
+1 = ja
+
+**kreisverband** 
+Mitgliedschaft in einem Kreisverband
+0 = nein
+1 = ja
+
+**landesverband** 
+Mitgliedschaft in einem Landesverband
+0 = nein
+1 = ja
+
+**pjführung**
+Führende Position in der Parteijugend
+0 = nein
+1 = ja
+
 *Fehlende Werte z.B. in der Nodelist leerlassen*
